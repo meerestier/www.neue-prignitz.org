@@ -1,0 +1,6 @@
+### Neue-Prignitz.org Development ###
+
+Die Website nimmt Form an…
+
+- Änderungen werden zunächst zum develop branch gepusht…
+ 

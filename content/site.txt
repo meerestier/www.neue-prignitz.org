@@ -1,0 +1,25 @@
+﻿Title: Neue-Prignitz.org
+
+----
+
+Author: Lars Schulz
+
+----
+
+Client: Neue-Prignitz.org
+
+----
+
+Client_address: Berlin
+
+----
+
+Description: Dummy
+
+----
+
+Keywords: Dummy
+
+----
+
+Copyright: © 2008-(date: Year) (link: http://www.neue-prignitz.org text: Neue-Prignitz)

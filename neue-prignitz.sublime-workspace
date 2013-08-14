@@ -1,0 +1,188 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lars/Dropbox/Jobs Active/Diverse Projekte/Neue Prignitz/1-Entwicklung/develop.neue-prignitz.org/humans.txt",
+		"/Users/lars/Dropbox/Jobs Active/Diverse Projekte/Neue Prignitz/1-Entwicklung/develop.neue-prignitz.org/readme.md",
+		"/Users/lars/Dropbox/Jobs Active/Diverse Projekte/Neue Prignitz/1-Entwicklung/develop.neue-prignitz.org/assets/stylesheets/neue-prignitz.css",
+		"/Users/lars/Dropbox/Jobs Active/Diverse Projekte/Neue Prignitz/1-Entwicklung/develop.neue-prignitz.org/content/site.txt",
+		"/Users/lars/Dropbox/Jobs Active/Diverse Projekte/Neue Prignitz/1-Entwicklung/develop.neue-prignitz.org/content/04-contact/contact.txt",
+		"/Users/lars/Dropbox/Jobs Active/Diverse Projekte/Neue Prignitz/1-Entwicklung/develop.neue-prignitz.org/content/imprint/default.txt",
+		"/Users/lars/Dropbox/Jobs Active/Diverse Projekte/Neue Prignitz/1-Entwicklung/develop.neue-prignitz.org/site/snippets/menu.php",
+		"/Users/lars/Dropbox/Jobs Active/Diverse Projekte/Neue Prignitz/1-Entwicklung/develop.neue-prignitz.org/site/snippets/nav_details.php",
+		"/Users/lars/Dropbox/Jobs Active/Diverse Projekte/Neue Prignitz/1-Entwicklung/develop.neue-prignitz.org/www.countrysite.org.esproj/user.lars.espressostorage",
+		"/Users/lars/Dropbox/Jobs Active/Diverse Projekte/Neue Prignitz/1-Entwicklung/develop.neue-prignitz.org/assets/stylesheets/styles.all.css",
+		"/Users/lars/Dropbox/Jobs Active/Diverse Projekte/Neue Prignitz/1-Entwicklung/develop.neue-prignitz.org/site/config/config.countrysite.org.php",
+		"/Users/lars/Dropbox/Jobs Active/Diverse Projekte/Neue Prignitz/1-Entwicklung/develop.neue-prignitz.org/site/snippets/footer.php",
+		"/Users/lars/Library/Application Support/Steam/userdata/56514475/234650/remote/saves/autosave.sav",
+		"/var/folders/p3/t3sf890d5hb86v_xc3s476ww0000gn/T/Finder - 2013-08-13 -> PDFs zur Prüfung 001.txt",
+		"/var/folders/p3/t3sf890d5hb86v_xc3s476ww0000gn/T/Finder - develop.neue-prignitz 002.org",
+		"/Users/lars/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/lars/Dropbox/Lib/Easycatalog Sources CS5 --server/SMP - PL.01.032-EN/Data/Data Sources/Aufpreise/Data/Datasource.xml",
+		"/Users/lars/Dropbox/Lib/Easycatalog Sources CS5 --server/SMP - PL.01.032-EN/Data/Data Sources/KESO_XML_Ebene1.xml/Data/Datasource.xml",
+		"/Users/lars/Dropbox/Lib/Easycatalog Sources CS5 --server/SMP - PL.01.032-EN/Data/Data Sources/KESO_XML_Ebene2.xml/Data/Datasource.xml",
+		"/Users/lars/Dropbox/Lib/Easycatalog Sources CS5 --server/SMP - PL.01.032-EN/Data/Data Sources/KESO_XML_Ebene3.xml/Data/Datasource.xml",
+		"/Users/lars/Dropbox/Lib/Easycatalog Sources CS5 --server/SMP - PL.01.032-EN/Data/Data Sources/KESO_XML_Produkte.xml/Data/Datasource.xml",
+		"/Users/lars/Dropbox/Lib/Easycatalog Sources CS5 --server/SMP - PL.01.032-EN/Data/Data Sources/KESO_XML_Treegroup.xml/Data/Datasource.xml",
+		"/Users/lars/Dropbox/Lib/Easycatalog Sources CS5 --server/SMP - PL.01.032-EN/Data/Data Sources/KESO_XML_Varigruppen.xml/Configurations/Seitenzahlen",
+		"/Users/lars/Dropbox/Lib/Easycatalog Sources CS5 --server/SMP - PL.01.032-EN/Data/Data Sources/KESO_XML_Varigruppen.xml/Data/Datasource.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Countrysite",
+			"neue-prignitz",
+			"countrysite",
+			"PL.01.033-DC",
+			"PL.01.032-DE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Neue-Prignitz",
+			"neue-prignitz",
+			"PL.01.033-FC",
+			"PL.01.032-EN"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "neue-prignitz.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

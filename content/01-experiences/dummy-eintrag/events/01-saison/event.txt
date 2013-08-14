@@ -1,0 +1,13 @@
+Title: Saison
+
+----
+
+Note: Die Huskysaison ist stark abhängig von der Schneelage. 
+
+----
+
+Timeframe: Dezember – März
+
+----
+
+Timeframe-Format: 2012-12-01 - 2012-04-01

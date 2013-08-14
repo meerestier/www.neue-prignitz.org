@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<title>{Contact}</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<!-- Testserver (Searchengine stop)
+  ================================================== -->
+	<meta name="robots" content="noindex,nofollow">
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="../../assets/stylesheets/preclinics.all.css">	
+	
+	<!--[if lt IE 9]>
+		<script src="javascripts/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="../../assets/images/favicon.ico">
+	<link rel="apple-touch-icon" href="../../assets/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="../../assets/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="../../assets/images/apple-touch-icon-114x114.png">
+
+
+</head>
+
+<body class="content" onload="initialize()">
+    <noscript>
+        <div id="noscript">Please activate JavaScript in your browser!</div>
+    </noscript>
+	<!-- Primary Page Layout
+	================================================== -->
+
+	<div class="band content_nav">
+		<div class="container container-twelve ">
+			
+			<div class="desktop_nav">
+				<div class="five columns">
+					<div class="menu" class="five columns">
+						<ul>
+							<li ><a href="#" title="Contract Research">Contract Research</a>
+								<ul class="">
+									<li class="subselected"><a href="/">Efficacy Assessment and Pharmacokinetics</a></li>
+									<li><a href="/">Revolyzer: Mouse Running Assay</a></li>
+									<li><a href="/">Xenodoma: Immunodeficient models for xenograft and chimeric cells production</a></li>
+								</ul>	
+							</li>
+							<li><a href="#" title="Research Services">Research Services</a>
+								<ul>
+									<li><a href="/" class="subselected">Immunisation and Antibodies</a></li>
+									<li><a href="/">Fresh Biological Products</a></li>
+									<li><a href="/">Research Diagnostics</a></li>
+								</ul>	
+							</li>
+						</ul>
+					</div><!-- end menu -->
+				</div><!-- end five columns -->
+				
+				<div class="two columns">
+					<a href="index.html"><img src="../../assets/images/logotype_small.png" alt="preclinics logotype" id="logospace_small"></a>
+				</div>
+										
+				<div class="five columns">
+					<div class="menu meta">
+						<ul>
+							<li><a href="../../About">About</a></li>
+							<li class="selected"><a href="../../Contact">Contact</a></li>
+							<li class="language_select"><a href="#" title="Language Switcher">Language</a>
+								<ul>
+									<li  class="subselected"><a href="/">English</a></li>
+									<li><a href="/">Deutsch</a></li>
+								</ul>	
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div> <!-- end desktop_nav -->
+
+	<!-- Mobile Navigation (layout.css)
+	================================================== -->
+			<div class="mobile_nav twelve columns">
+				<a href="index.html"><img src="../../assets/images/logotype_small.png" alt="preclinics logotype" id="logospace_small"></a>
+			
+				<select onchange="window.open(this.options[this.selectedIndex].value)">
+					<option value="" selected="selected">Go to...</option> 
+					
+					<option value="/">Homepage</option>
+					<option value="/collections/all">Contract Research</option>
+					<option value="/blogs/five-simple-steps-blog">Research services</option>
+					<option value="/pages/about-us">About</option>
+					<option value="/pages/support">Contact</option>
+				 </select> 
+				
+			</div><!-- end mobile_nav -->
+
+
+		</div><!-- container -->
+	</div><!-- band -->
+
+
+
+	<!-- Content Layout
+	================================================== -->
+	
+	
+	<div class="band contentarea">
+		<div class="container container-twelve">
+		
+		
+			<div class="eight columns">
+			
+				<h2>Contact</h2>
+			
+			</div><!-- end div column -->
+
+
+			<div class="twelve columns line right">
+<!--
+				<ul class="content_subnavigation">
+					<li><a href="#abstract">Adresses</a></li>
+					<li><a href="#ideas">Getting there</a></li>
+				</ul>
+-->
+			</div><!-- end div column -->
+			
+
+			<div class="three columns spacing">
+				
+				<h4>Company headquarter</h4>
+				<div class="vcard">
+				<strong>Adress:</strong><br>
+				<span class="fn org">preclinics GmbH</span><br>
+				<span class="adr">Wetzlarer Str. 20<br>
+				14482 Potsdam</span><br>
+				<br>
+				<strong>Tel: </strong><span class="tel">+49 331 2300522</span><br>
+				<strong>Fax: </strong><span class="tel">+49 331 2300544</span><br>
+				<br>
+				<strong>E-Mail: </strong><span class="tel">info@preclinics.com</span><br>
+				<strong>Web: </strong><span class="tel">www.preclinics.com</span><br>
+				
+				
+				</div> <!-- end div vcard -->
+			</div><!-- end div column -->
+			
+
+			<div class="three columns spacing">
+
+				<h4>Research Farm</h4>
+				<div class="vcard">
+				<strong>Adress:</strong><br>
+				<span class="fn org">preclinics GmbH</span><br>
+				<span class="adr">Wetzlarer Str. 20<br>
+				14482 Potsdam</span><br>
+				<br>
+				</div> <!-- end div vcard -->
+
+			</div><!-- end div column -->
+
+			<div class="image six columns spacing">
+			
+				  <div id="map_canvas" style="width:100%; min-height:300px"></div>
+				<ul class="content_subnavigation">
+					<li><a href="https://maps.google.com/maps?saddr=Aktueller+Standort&daddr=Wetzlarer+Stra%C3%9Fe+20,+Potsdam,+Deutschland&hl=de&ie=UTF8&sll=52.473006,13.339974&sspn=0.361376,0.828781&geocode=FQgSIQMdhCLMACF4ahKZm5E1RA%3BFQBMHwMdHC3IACkfLNinQV-oRzEWntqEYPO-SQ&t=v&mra=ls&z=12">
+					Directions to Preclincis GmbH
+					</a>
+					</li>
+				</ul>
+			</div>
+			
+
+			
+			
+		</div><!-- container -->
+	</div><!-- band -->
+	
+	
+	
+	<div class="band">
+		<div class="container container-twelve">
+			<div class="footer four columns">
+				<!-- Microformat -->
+				<div class="vcard">
+				<span class="fn org">preclinics GmbH</span><br>
+				<span class="adr">Wetzlarer Str. 20<br>
+				14482 Potsdam</span>
+				</div> <!-- end div vcard -->
+			</div><!-- end div column -->
+			<div class="footer four columns">
+				
+				<ul class="nav_footer">
+					<li><a href="../../About">About</a></li>
+					<li><a href="../../Contact">Contract Research</a></li>
+					<li><a href="../../Language">Research Services</a></li>
+				</ul>
+			
+			</div><!-- end div column -->
+			<div class="footer four columns">
+			
+				<ul class="nav_footer">
+					<li><a href="../../Contact">Contact / Legal</a></li>
+					<li class="language_select"><a href="/">Deutsche Version</a></li>
+				</ul>
+
+			
+			</div><!-- end div column -->
+		</div><!-- container -->
+	</div><!-- band -->
+
+
+	<!-- JS
+	================================================== -->
+	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script src="../../assets/javascripts/tabs.js"></script>
+	<script src="../../assets/javascripts/plugin.js"></script>
+
+	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+	<script type="text/javascript">
+	
+			
+			//Google Maps
+			function initialize() {
+				var latlng = new google.maps.LatLng(52.15711,12.069192);
+				var settings = {
+					zoom: 7,
+					center: latlng,
+					mapTypeControl: false,
+					mapTypeControlOptions: {/* style: google.maps.MapTypeControlStyle.DROPDOWN_MENU */},
+					navigationControl: true,
+					navigationControlOptions: {style: google.maps.NavigationControlStyle.SMALL},
+					mapTypeId: google.maps.MapTypeId.ROADMAP};
+				var map = new google.maps.Map(document.getElementById("map_canvas"), settings);
+				var contentString = '<div id="content">'+
+					'<div id="siteNotice">'+
+					'</div>'+
+					'<h4 id="firstHeading" class="firstHeading">Preclinics Headquarter</h4>'+
+					'<div id="bodyContent">'+
+					''+
+					'</div>'+
+					'</div>';
+				var infowindow = new google.maps.InfoWindow({
+					content: contentString
+				});
+				
+				// First location
+				
+				var companyImage = new google.maps.MarkerImage('../../assets/features/googlemaps/images/logo.png',
+					new google.maps.Size(100,50),
+					new google.maps.Point(0,0),
+					new google.maps.Point(50,50)
+				);
+	
+				var companyShadow = new google.maps.MarkerImage('../../assets/features/googlemaps/images/logo_shadow.png',
+					new google.maps.Size(130,50),
+					new google.maps.Point(0,0),
+					new google.maps.Point(65, 50));
+	
+				
+				var companyPos = new google.maps.LatLng(52.3827,13.1187);
+	
+				var companyMarker = new google.maps.Marker({
+					position: companyPos,
+					map: map,
+					icon: companyImage,
+					shadow: companyShadow,
+					title:"Preclinics Headquarter",
+					zIndex: 3});
+
+	
+				
+				
+				// Second location
+
+				var researchImage = new google.maps.MarkerImage('../../assets/features/googlemaps/images/logo_research.png',
+					new google.maps.Size(150,50),
+					new google.maps.Point(0,0),
+					new google.maps.Point(50,50)
+				);
+	
+				var researchShadow = new google.maps.MarkerImage('../../assets/features/googlemaps/images/logo_research_shadow.png',
+					new google.maps.Size(150,50),
+					new google.maps.Point(0,0),
+					new google.maps.Point(60, 50)
+				);
+				
+				var researchPos = new google.maps.LatLng(52.1898,10.7151);
+	
+				var researchMarker = new google.maps.Marker({
+					position: researchPos,
+					map: map,
+					icon: researchImage,
+					shadow: researchShadow,
+					title:"Preclinics Researchfarm",
+					zIndex: 2
+				});
+	
+				
+				
+				// Center on 
+				google.maps.event.addListener(companyMarker, 'click', function() {
+/* 					infowindow.open(map,companyMarker); */
+					
+				    map.setZoom(14);
+				    map.setCenter(companyPos);
+				    
+				});
+				
+				google.maps.event.addListener(researchMarker, 'click', function() {
+				
+				    map.setZoom(12);
+				    map.setCenter(researchPos);
+				    
+				    
+				});
+
+				
+			}
+			
+			
+			
+		$(document).ready(function() {
+		
+			// Slider	
+			$('.slidewrap2').carousel({
+				slider: '.slider',
+				slide: '.slide',
+				addNav: true,
+				addPagination: true,
+				speed: 300 // ms.
+			});
+			
+			
+			// Create the dropdown base
+			$("<select />").appendTo("nav");
+			
+			// Create default option "Go to..."
+			$("<option />", {
+			   "selected": "selected",
+			   "value"   : "",
+			   "text"    : "Go to..."
+			}).appendTo("nav select");
+			
+			// Populate dropdown with menu items
+			$("nav a").each(function() {
+			 var el = $(this);
+			 $("<option />", {
+			     "value"   : el.attr("href"),
+			     "text"    : el.text()
+			 }).appendTo("nav select");
+			});
+
+			
+		});
+	</script>
+
+
+<!-- End Document
+================================================== -->
+</body>
+</html>

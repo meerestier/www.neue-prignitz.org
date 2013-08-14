@@ -1,0 +1,23 @@
+body {
+	background: url("../images/details_bg.png") no-repeat fixed top left,
+	url("../images/texture_white.png") repeat;
+	background-color: #F4F2E8;
+}
+
+h5 {
+	font-size: 2em;
+	margin-right: -200px;
+}
+.form span.label {
+  color:#534741;
+  font-size:14px;
+}
+
+.buttons .submit {
+  background: #534741;
+  color: #fff;
+}
+
+.form-description {
+	margin-right: -200px;
+}
